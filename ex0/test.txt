@@ -1,0 +1,4 @@
+This exercise is about learning how to use the terminal to do the following:
+	- make a directory (mkdir)
+	- change directories (cd path)
+	- see files in a directory (ls)
