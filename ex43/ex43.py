@@ -120,7 +120,7 @@ class CentralCorridor(Scene):
 			raw_input("...")
 			print "Lbhe zbgure vf fb sng, jura fur fvgf nebhaq gur ubhfr, fur fvgf nebhaq gur ubhfr."
 			raw_input("...")
-			print "The Gothon stops, tries not to laugh, then busts out laughing and can't move."
+			print "The Gothon stops, tries not to laugh, then bursts out laughing and can't move."
 			raw_input("...")
 			print "While he's laughing you run up to him and shoot him square in the head then jump through the Weapon Armory door."
 			raw_input("...")
