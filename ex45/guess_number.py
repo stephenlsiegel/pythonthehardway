@@ -1,8 +1,9 @@
 # Guess the Number
 
-from random import randint
-
-def guess_number():
+def guessNumber():
+	print "\n"
+	
+	from random import randint
 
 	num = randint(1,100)
 	
@@ -26,8 +27,7 @@ def guess_number():
 	
 	if guess == num:
 		print "Correct! My number was %d." % num
-		print "You may move on."
+		return "win"
 	else:
-		print "My number is %d. You failed to guess the right number. You die!" % num
-		
-guess_number()
+		print "My number is %d. You failed to guess the right number." % num
+		return "lose"
