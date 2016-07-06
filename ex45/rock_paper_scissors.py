@@ -1,9 +1,5 @@
 # Rock-Paper-Scissors
 
-# rock beats scissors
-# scissors beats paper
-# paper beats rock
-
 def rPS():
 	print "\n"
 
